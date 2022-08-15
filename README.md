@@ -14,6 +14,11 @@ project 5: Using Power BI
 i will be implementing a main branch for production-ready code and a develop branch for developing code.
 A supporting branch Hotfix may be implemented when needed to correct errors 
 
+#gitignore:
+Gitignore will be used in diferent projects to 
+1. System-specific files should be ignored
+2. vscode workspace need to be ignored
+3. Security key files and API keys should be added to the gitignore list for added security
 
 
 
